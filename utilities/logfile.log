@@ -1,0 +1,3 @@
+2023-01-16 13:17:36,109 : INFO : test_formSubmission : First name is Sandra
+2023-01-16 13:17:36,244 : INFO : test_formSubmission : Email is san@mail.com
+2023-01-16 13:22:36,091 : INFO : test_formSubmission : First name is None
